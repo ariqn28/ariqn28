@@ -107,7 +107,7 @@ Pengalaman web interaktif - sebuah proyek kreatif yang menampilkan desain web mo
 Saya ingin berkolaborasi dalam proyek, berbagi ide, atau sekadar mengobrol tentang pengembangan dan kreativitas!
 
 - 🔗 **GitHub:** [@ariqn28](https://github.com/ariqn28)
-- 📧 **Email:** Hubungi saya melalui GitHub
+- 📧 **Email:** ariqnaufalsyachroni57@gmail.com
 - 🌐 **Portofolio:** [ariqn28.github.io](https://ariqn28.github.io)
 
 ---
